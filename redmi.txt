@@ -1,0 +1,4 @@
+-npm init -y
+-npm install express mongodb
+-npm install multer
+-npm install nodemon
